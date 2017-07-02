@@ -83,7 +83,7 @@ __Wait until "Ready to receive an IK request" appears in the original terminal__
 
 #### Bugs
 
-To ensure the gripper grasps the target before it retriets, add a line
+To ensure the gripper grasps the target before it retreats, add a line
 
 ```
 ros::Duration(5.0).sleep();
