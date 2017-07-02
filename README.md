@@ -70,6 +70,17 @@ source <root directory>/catkin_ws/devel/setup.bash
 # to save the effort push them into your ~/.bashrc
 ```
 
+#### Run the project
+
+```
+cd <root directory>/catkin_ws/src/RoboND-KUKA-KR210/kuka_arm/scripts
+
+# Make sure "value" is false in <root directory>/catkin_ws/src/RoboND-KUKA-KR210/kuka_arm/launch/inverse_kinematics.launch
+
+./safe_spawner.sh
+```
+__Wait until "Ready to receive an IK request" appears in the original terminal__
+
 #### Bugs
 
 To ensure the gripper grasps the target before it retriets, add a line
