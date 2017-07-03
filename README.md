@@ -1,7 +1,11 @@
 # RoboND - KUKA KR210
 Jun Zhu
 
+
+This is the robotic arm pick and place project at RoboND, Udacity. The task is to write code and perform inverse kinematics for the KUKA KR210. 
+
 ---
+
 
 ![alt text](misc_images/highlight1.png)
 
@@ -105,9 +109,3 @@ __Success 12/12__
 
 [![alt text](http://img.youtube.com/vi/aKXPpqryq6I/0.jpg)](https://youtu.be/aKXPpqryq6I)
 
-  
-  
- 
- 
- 
- 
